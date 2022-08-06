@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3W5Aamqwt39+w7CE+CfIuNxNEsN+A+wv3lIEy0G8WT0aIs6HREYuGYS2Y/PR55lsiZztCwP1O4S4lunm+m9Pbg==",
+  "dgSpecHash": "w7Z9kGMqYQi8Cj7Pryq1UtXILZoykazp/BFtyjic2AiJEtfCDOZq4LMEvBE4OOd1PXEm/5UCByMhdyZ+5R7QLg==",
   "success": true,
   "projectFilePath": "/home/sirsabek/Codes/dotnet/HotelListingApp/HotelListing/HotelListing.csproj",
   "expectedPackageFiles": [
     "/home/sirsabek/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/home/sirsabek/.nuget/packages/jetbrains.resharper.commandlinetools/2022.2.0/jetbrains.resharper.commandlinetools.2022.2.0.nupkg.sha512",
     "/home/sirsabek/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/home/sirsabek/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "/home/sirsabek/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.1.1/microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",

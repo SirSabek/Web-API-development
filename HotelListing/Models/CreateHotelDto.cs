@@ -18,9 +18,3 @@ public class CreateHotelDto
     [Required]
     public int CountryId { get; set; }
 }
-
-public class HotelDto : CreateHotelDto
-{
-    public int Id { get; set; }
-    public CountryDto Country { get; set; }
-}
