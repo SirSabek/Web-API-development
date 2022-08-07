@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "w7Z9kGMqYQi8Cj7Pryq1UtXILZoykazp/BFtyjic2AiJEtfCDOZq4LMEvBE4OOd1PXEm/5UCByMhdyZ+5R7QLg==",
+  "dgSpecHash": "27rzFp8NIuq/EdALXUaBukuxSsUt/E58PWRutVPO6QUzgXo8nfaHWP8RPS9nKZ/kNfHrN2QVOR5nP+Jpaw7SzA==",
   "success": true,
   "projectFilePath": "/home/sirsabek/Codes/dotnet/HotelListingApp/HotelListing/HotelListing.csproj",
   "expectedPackageFiles": [
+    "/home/sirsabek/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
+    "/home/sirsabek/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/home/sirsabek/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/sirsabek/.nuget/packages/jetbrains.resharper.commandlinetools/2022.2.0/jetbrains.resharper.commandlinetools.2022.2.0.nupkg.sha512",
-    "/home/sirsabek/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/home/sirsabek/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/sirsabek/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "/home/sirsabek/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.1.1/microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "/home/sirsabek/.nuget/packages/microsoft.entityframeworkcore/6.0.7/microsoft.entityframeworkcore.6.0.7.nupkg.sha512",

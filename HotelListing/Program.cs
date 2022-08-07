@@ -1,3 +1,4 @@
+using HotelListing.Configurations;
 using HotelListing.data;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
@@ -15,6 +16,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddCors();
+builder.Services.AddAutoMapper(typeof(MapperInitilizer));
 
 // remove default logging providers
 builder.Logging.ClearProviders();
